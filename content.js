@@ -1,4 +1,4 @@
-var pilgrim = [
+const content = [
   "...Is chicken parmesan vegan?",
   "...Lesbians?",
   "...She has to go. She knows we suck.",
